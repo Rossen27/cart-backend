@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "日本A5和牛起士堡",
+      "description": "選用日本A5佐賀和牛與澳洲穀飼奧汀牛，打造黃金比例肉味濃郁的和牛漢堡排，豐富鮮香的油脂與扎實多汁的口感，一口咬下就是要讓你難以忘懷！",
+      "product_type": "power set/diesel engine",
+      "image_tag": "japanA5Buger.png",
+      "owner_photo": "japanA5Buger.png",
+      "price": 195,
+      "pic":"/japanA5Buger.png"
+    },
+    {
+      "id": 2,
+      "title": "起司鱈魚堡",
+      "description": "夾著吉士片和美乃滋，這就是軟嫩新鮮的摩斯鱈魚堡 ",
+      "product_type": "power set/diesel engine",
+      "image_tag": "codfishBuger.png",
+      "owner_photo": "codfishBuger.png",
+      "price": 105,
+      "pic":"/codfishBuger.png"
+    },
+    {
+      "id": 3,
+      "title": "海味炸蝦米堡",
+      "description": "彈性十足的完整蝦肉，搭配高麗菜絲與法式塔塔醬，鮮甜美味",
+      "product_type": "power set/diesel engine",
+      "image_tag": "riceBuger.png",
+      "owner_photo": "riceBuger.png",
+      "price": 105,
+      "pic":"/riceBuger.png"
+    },
+    {
+      "id": 4,
+      "title": "勁辣花生雞芝加哥堡",
+      "description": "花生醬與脆雞的融合，花生醬富含堅果營養價值，以及跟雞肉搭配起來，鹹甜鹹甜帶著一點微辣的口感，完美組合形成絕妙好滋味",
+      "product_type": "power set/diesel engine",
+      "image_tag": "chicagoBuger.png",
+      "owner_photo": "chicagoBuger.png",
+      "price": 115,
+      "pic":"/chicagoBuger.png"
+    },
+    {
+      "id": 5,
+      "title": "鮪魚蛋皇后堡",
+      "description": "來自阿拉斯加的深海鱈魚搭配香濃可口的塔塔醬，絕妙滋味肯定令人愛不釋手",
+      "product_type": "power set/diesel engine",
+      "image_tag": "tunaEggBrioche.png",
+      "owner_photo": "tunaEggBrioche.png",
+      "price": 115,
+      "pic":"/tunaEggBrioche.png"
+    },
+    {
+      "id": 6,
+      "title": "芋見紅豆皇后堡",
+      "description": "當來自大甲的芋頭碰到萬丹的紅豆，多麼絕妙的組合！",
+      "product_type": "power set/diesel engine",
+      "image_tag": "taroRedBeansBrioche.png",
+      "owner_photo": "taroRedBeansBrioche.png",
+      "price": 115,
+      "pic":"/taroRedBeansBrioche.png"
+    }
+    
+  ]
