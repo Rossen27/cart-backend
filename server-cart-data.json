@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": 2,
+        "title": "起司鱈魚堡",
+        "description": "夾著吉士片和美乃滋，這就是軟嫩新鮮的摩斯鱈魚堡 ",
+        "price": 105,
+        "image_tag": "codfishBuger.png",
+        "quantity": 2
+    }
+]
